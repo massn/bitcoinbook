@@ -40,6 +40,4 @@ include::appdx-pycoin.asciidoc[]
 
 include::appdx-bx.asciidoc[]
 
-include::index.asciidoc[]
-
 include::colo.asciidoc[]
